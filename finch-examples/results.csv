@@ -1,0 +1,19 @@
+Solver,Problem,Mesh Size (# Elements),Time (s)
+Finch,Convection-Diffusion,10000,27.0
+Finch,Convection-Diffusion,15000,27.8
+Finch,Convection-Diffusion,20000,28.0
+Finch,Convection-Diffusion,100000,30.5
+Finch,Convection-Diffusion,500000,41.6
+Finch,Convection-Diffusion,1000000,60.9
+Finch,Poisson 1D,10000,25.6
+Finch,Poisson 1D,15000,25.7
+Finch,Poisson 1D,20000,25.8
+Finch,Poisson 1D,100000,27.2
+Finch,Poisson 1D,500000,31.6
+Finch,Poisson 1D,1000000,40.3
+Finch,Convection-Diffusion-Reaction,10000,26.5
+Finch,Convection-Diffusion-Reaction,15000,26.7
+Finch,Convection-Diffusion-Reaction,20000,27.1
+Finch,Convection-Diffusion-Reaction,100000,29.8
+Finch,Convection-Diffusion-Reaction,500000,45.6
+Finch,Convection-Diffusion-Reaction,1000000,61.2

@@ -1,0 +1,16 @@
+Solver,Problem,Mesh Size (# Elements),Time (s)
+CertFEM,Convection-Diffusion,10000,0.112
+CertFEM,Convection-Diffusion,20000,0.119
+CertFEM,Convection-Diffusion,500000,1.875
+CertFEM,Convection-Diffusion,100000,0.331
+CertFEM,Convection-Diffusion,1000000,4.640
+CertFEM,Poisson 1D,10000,0.101
+CertFEM,Poisson 1D,20000,0.111
+CertFEM,Poisson 1D,500000,0.379
+CertFEM,Poisson 1D,100000,0.142
+CertFEM,Poisson 1D,1000000,0.712
+CertFEM,Convection-Diffusion-Reaction,10000,0.098
+CertFEM,Convection-Diffusion-Reaction,20000,0.114
+CertFEM,Convection-Diffusion-Reaction,100000,0.292
+CertFEM,Convection-Diffusion-Reaction,500000,1.761
+CertFEM,Convection-Diffusion-Reaction,1000000,4.440

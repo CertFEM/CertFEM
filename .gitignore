@@ -1,0 +1,13 @@
+.lake
+.elan
+*.txt
+*.vtu
+*.jl
+*.vtk
+*.c
+*.png
+*.pdf
+*.out
+*.tex
+*.diff
+*.zip

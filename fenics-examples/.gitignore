@@ -1,0 +1,7 @@
+## visualization files
+
+*.h5
+*.xdmf
+*.pvd
+*.pvtu
+*.vtu
